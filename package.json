@@ -1,0 +1,10 @@
+{
+  "name": "username-generator",
+  "version": "1.0.0",
+  "description": "Random username generator",
+  "main": "username-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "themand"
+}
