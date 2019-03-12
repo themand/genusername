@@ -1,8 +1,8 @@
 {
-  "name": "username-generator",
+  "name": "genusername",
   "version": "1.0.0",
   "description": "Random username generator",
-  "main": "username-generator.js",
+  "main": "genusername.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
